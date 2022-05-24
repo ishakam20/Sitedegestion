@@ -2,7 +2,7 @@ Ce site consiste à faciliter la gestion et les payements d'une boutique de vete
 
 Ce site est hébérgé, l'accès se fait via se lien : https://lpcommande.com/login.php
 
-Différetens fonctionnalités sont présentes, parmi elles :
+Différentes fonctionnalités sont présentes, parmi elles :
 Ajout d'une commande ( Nom, prénom etc...)
 Consultation d'une commande
 Modification d'une commande
